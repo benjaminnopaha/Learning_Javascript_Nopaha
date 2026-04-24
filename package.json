@@ -1,0 +1,21 @@
+{
+  "name": "learning_javascript_nopaha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminnopaha/Learning_Javascript_Nopaha.git"
+  },
+  "keywords": [],
+  "author": "Nopaha",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/benjaminnopaha/Learning_Javascript_Nopaha/issues"
+  },
+  "homepage": "https://github.com/benjaminnopaha/Learning_Javascript_Nopaha#readme"
+}
