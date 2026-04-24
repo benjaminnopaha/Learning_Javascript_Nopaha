@@ -1,0 +1,30 @@
+body {
+  width: 700px;
+  padding: 100px;
+  margin: auto;
+  font-family: Arial;
+  text-align: center;
+  background: rgb(181, 241, 228);
+  margin-top: 50px;
+}
+
+h1 {
+  color: blue;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid pink;
+  border-radius: 7px;
+}
+
+button:hover {
+  background-color: white;
+  border: 1px solid orange;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+}
